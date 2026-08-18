@@ -2,15 +2,7 @@
 
 A leakage-safe machine learning pipeline for forecasting next-day returns across a 6-stock Indian equity universe (RELIANCE, HDFCBANK, INFY, M&M, BHARTIARTL, HUL), combining technical, fundamental, macroeconomic, and news sentiment data, validated with nested walk-forward cross-validation, and used to construct a volatility-scaled long-short portfolio.
 
-Built as a group project for the Data Science and AI in Finance course.
-
-## Team
-
-- Lucas Haobam
-- Debadatta Panda
-- Ajay Kumar
-- Jyoti Ranjan Sethi
-- Adarsha Mandal
+Built as a course project for the Data Science and AI in Finance course.
 
 ## Overview
 
